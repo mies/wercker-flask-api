@@ -4,7 +4,7 @@
       "commands": [
         "export LANG=en_US.UTF-8",
         "export LC_ALL=en_US.UTF-8",
-        "export WERCKER=true"
+        "export WERCKER=true",
         "export VIRTUALENV_DISTRIBUTE=true"
       ]
     }
