@@ -8,4 +8,5 @@
         "export VIRTUALENV_DISTRIBUTE=true"
       ]
     }
+  }
 }
