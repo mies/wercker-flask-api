@@ -7,6 +7,11 @@
         "export WERCKER=true",
         "export VIRTUALENV_DISTRIBUTE=true"
       ]
+    },
+    "flask_test" : {
+      "commands" : [
+      "python app_test.py"
+      ]
     }
   }
 }
