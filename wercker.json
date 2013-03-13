@@ -1,6 +1,6 @@
 {
-  "customSteps" : {
-    "setup_environment" : {
+  "custom steps" : {
+    "setup environment" : {
       "commands": [
         "export LANG=en_US.UTF-8",
         "export LC_ALL=en_US.UTF-8",
@@ -8,9 +8,9 @@
         "export VIRTUALENV_DISTRIBUTE=true"
       ]
     },
-    "flask_test" : {
+    "flask test" : {
       "commands" : [
-      "python app_test.py"
+        "python app_test.py"
       ]
     }
   }
